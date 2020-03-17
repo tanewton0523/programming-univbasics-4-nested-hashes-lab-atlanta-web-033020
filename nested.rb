@@ -125,6 +125,9 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
+    alans_new_info = "GUI"
+    
     programmer_hash[:dennis_ritchie][:known_for] = alans_new_info
+    programmer_hash
 
 end
